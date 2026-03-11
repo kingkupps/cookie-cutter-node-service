@@ -1,5 +1,6 @@
 {
   "project_name": "Cookiecutter Website Simple",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-  "project_description": ""
+  "project_description": "",
+  "project_license": "ISC"
 }
