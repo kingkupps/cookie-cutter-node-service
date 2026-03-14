@@ -3,4 +3,5 @@ A [cookiecutter](https://cookiecutter.readthedocs.io/en/latest/README.html) temp
 - typescript compilation
 - hot reload
 - logging
+- formatting via prettier
 
