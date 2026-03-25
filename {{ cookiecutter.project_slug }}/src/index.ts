@@ -1,4 +1,6 @@
-import { logger } from "./logger.js";
+import { getLogger } from "./logger.js";
+
+const logger = getLogger(import.meta.url);
 
 async function main() {
   logger.info("Hi there");
